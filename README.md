@@ -22,7 +22,7 @@
 
 ## About Me
 
-I am **Vihanga Rathnayake**, a final-year **BComp (Hons) Information Systems** undergraduate at the **University of Sri Jayewardenepura**, while also pursuing **Software Engineering** at the **Open University of Sri Lanka**.
+I am **Vihanga Rathnayake**, a final-year **BComp (Hons) Information Systems** undergraduate at the **University of Sri Jayewardenepura**, while also pursuing **Software Engineering** degree in second year at the **Open University of Sri Lanka**.
 
 My strength lies at the intersection of **business and technology**. I analyse processes, uncover requirements, model better workflows, design practical systems, and collaborate on their technical implementation. My experience spans **digital government, case management, geotechnical engineering, healthcare, enterprise systems, AI/ML, databases, web applications, and mobile solutions**.
 
@@ -100,7 +100,7 @@ I currently contribute to a **Digital Case Flow Transformation** initiative at S
 
 ## Featured Work
 
-### Digital Case Flow Transformation — NAPVCW
+### Digital Case Flow Transformation — NAPVCW Sri Lanka
 
 Public-sector digital transformation initiative focused on improving complaint and case-management workflows through business analysis, process redesign, requirements engineering, security analysis, architecture, and prototype development.
 
