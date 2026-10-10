@@ -175,4 +175,3 @@ I am building toward roles where I can connect **business goals, user needs, dat
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,55:0F4C81,100:0EA5E9&height=110&section=footer" width="100%" alt="Footer" />
 
 </div>
-
